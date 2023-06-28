@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lazyraabbit
 - 👀 I’m interested in computer science, photography
 - 🌱 I’m currently learning python
-- 📫 How to reach me lazyraabbit@protonmail.ch
+- 📫 How to reach me lazyraabbit@protonmail.ch or contact.ahmedsakib@yahoo.com
 
 <!---
 lazyraabbit/lazyraabbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
