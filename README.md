@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazyraabbit
 - 👀 I’m interested in computer science, photography
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me lazyraabbit@protonmail.ch or contact.ahmedsakib@yahoo.com
 
 <!---
