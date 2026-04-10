@@ -1,5 +1,7 @@
 # 💫 About Me:
- 🛠 I’m currently working on building scalable web platforms and creative digital products.<br>🤝 I’m looking to collaborate on web development projects, creative tech ideas, and visually-driven digital experiences<br>🤲 I’m looking for help with advanced backend architecture, API optimization, and product scaling strategies<br>🌱 I’m currently learning React, Python, and system design while refining my skills in cinematography and visual storytelling<br>💬 Ask me about web development, UI/UX, creative direction, photography, and building digital brands from scratch<br>⚡ Fun fact: I blend my skills to create experiences—not just products
+I am Bankiim Khan 🛠 I’m currently working on building scalable web platforms and creative digital products.<br>🤝 I’m looking to collaborate on web development projects, creative tech ideas, and visually-driven digital experiences<br>🤲 I’m looking for help with advanced backend architecture, API optimization, and product scaling strategies<br>🌱 I’m currently learning React, Python, and system design while refining my skills in cinematography and visual storytelling<br>💬 Ask me about web development, UI/UX, creative direction, photography, and building digital brands from scratch<br>⚡ Fun fact: I blend my skills to create experiences—not just products
+
+ #Learn more about me: Bankiim.me
 
 
 ## 🌐 Socials:
